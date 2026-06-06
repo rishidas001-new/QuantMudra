@@ -1,0 +1,505 @@
+nse_symbol,yahoo_symbol,stock_name,industry
+NSE:360ONE-EQ,360ONE.NS,360 ONE WAM Ltd.,Financial Services
+NSE:3MINDIA-EQ,3MINDIA.NS,3M India Ltd.,Diversified
+NSE:ABB-EQ,ABB.NS,ABB India Ltd.,Capital Goods
+NSE:ACC-EQ,ACC.NS,ACC Ltd.,Construction Materials
+NSE:ACMESOLAR-EQ,ACMESOLAR.NS,ACME Solar Holdings Ltd.,Power
+NSE:AIAENG-EQ,AIAENG.NS,AIA Engineering Ltd.,Capital Goods
+NSE:APLAPOLLO-EQ,APLAPOLLO.NS,APL Apollo Tubes Ltd.,Capital Goods
+NSE:AUBANK-EQ,AUBANK.NS,AU Small Finance Bank Ltd.,Financial Services
+NSE:AWL-EQ,AWL.NS,AWL Agri Business Ltd.,Fast Moving Consumer Goods
+NSE:AADHARHFC-EQ,AADHARHFC.NS,Aadhar Housing Finance Ltd.,Financial Services
+NSE:AARTIIND-EQ,AARTIIND.NS,Aarti Industries Ltd.,Chemicals
+NSE:AAVAS-EQ,AAVAS.NS,Aavas Financiers Ltd.,Financial Services
+NSE:ABBOTINDIA-EQ,ABBOTINDIA.NS,Abbott India Ltd.,Healthcare
+NSE:ACE-EQ,ACE.NS,Action Construction Equipment Ltd.,Capital Goods
+NSE:ACUTAAS-EQ,ACUTAAS.NS,Acutaas Chemicals Ltd.,Healthcare
+NSE:ADANIENSOL-EQ,ADANIENSOL.NS,Adani Energy Solutions Ltd.,Power
+NSE:ADANIENT-EQ,ADANIENT.NS,Adani Enterprises Ltd.,Metals & Mining
+NSE:ADANIGREEN-EQ,ADANIGREEN.NS,Adani Green Energy Ltd.,Power
+NSE:ADANIPORTS-EQ,ADANIPORTS.NS,Adani Ports and Special Economic Zone Ltd.,Services
+NSE:ADANIPOWER-EQ,ADANIPOWER.NS,Adani Power Ltd.,Power
+NSE:ATGL-EQ,ATGL.NS,Adani Total Gas Ltd.,Oil Gas & Consumable Fuels
+NSE:ABCAPITAL-EQ,ABCAPITAL.NS,Aditya Birla Capital Ltd.,Financial Services
+NSE:ABFRL-EQ,ABFRL.NS,Aditya Birla Fashion and Retail Ltd.,Consumer Services
+NSE:ABLBL-EQ,ABLBL.NS,Aditya Birla Lifestyle Brands Ltd.,Consumer Services
+NSE:ABREL-EQ,ABREL.NS,Aditya Birla Real Estate Ltd.,Realty
+NSE:ABSLAMC-EQ,ABSLAMC.NS,Aditya Birla Sun Life AMC Ltd.,Financial Services
+NSE:CPPLUS-EQ,CPPLUS.NS,Aditya Infotech Ltd.,Capital Goods
+NSE:AEGISLOG-EQ,AEGISLOG.NS,Aegis Logistics Ltd.,Oil Gas & Consumable Fuels
+NSE:AEGISVOPAK-EQ,AEGISVOPAK.NS,Aegis Vopak Terminals Ltd.,Oil Gas & Consumable Fuels
+NSE:AFCONS-EQ,AFCONS.NS,Afcons Infrastructure Ltd.,Construction
+NSE:AFFLE-EQ,AFFLE.NS,Affle 3i Ltd.,Information Technology
+NSE:AJANTPHARM-EQ,AJANTPHARM.NS,Ajanta Pharmaceuticals Ltd.,Healthcare
+NSE:ALKEM-EQ,ALKEM.NS,Alkem Laboratories Ltd.,Healthcare
+NSE:ABDL-EQ,ABDL.NS,Allied Blenders and Distillers Ltd.,Fast Moving Consumer Goods
+NSE:ARE&M-EQ,ARE&M.NS,Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components
+NSE:AMBER-EQ,AMBER.NS,Amber Enterprises India Ltd.,Consumer Durables
+NSE:AMBUJACEM-EQ,AMBUJACEM.NS,Ambuja Cements Ltd.,Construction Materials
+NSE:ANANDRATHI-EQ,ANANDRATHI.NS,Anand Rathi Wealth Ltd.,Financial Services
+NSE:ANANTRAJ-EQ,ANANTRAJ.NS,Anant Raj Ltd.,Realty
+NSE:ANGELONE-EQ,ANGELONE.NS,Angel One Ltd.,Financial Services
+NSE:ANTHEM-EQ,ANTHEM.NS,Anthem Biosciences Ltd.,Healthcare
+NSE:ANURAS-EQ,ANURAS.NS,Anupam Rasayan India Ltd.,Chemicals
+NSE:APARINDS-EQ,APARINDS.NS,Apar Industries Ltd.,Capital Goods
+NSE:APOLLOHOSP-EQ,APOLLOHOSP.NS,Apollo Hospitals Enterprise Ltd.,Healthcare
+NSE:APOLLOTYRE-EQ,APOLLOTYRE.NS,Apollo Tyres Ltd.,Automobile and Auto Components
+NSE:APTUS-EQ,APTUS.NS,Aptus Value Housing Finance India Ltd.,Financial Services
+NSE:ASAHIINDIA-EQ,ASAHIINDIA.NS,Asahi India Glass Ltd.,Automobile and Auto Components
+NSE:ASHOKLEY-EQ,ASHOKLEY.NS,Ashok Leyland Ltd.,Capital Goods
+NSE:ASIANPAINT-EQ,ASIANPAINT.NS,Asian Paints Ltd.,Consumer Durables
+NSE:ASTERDM-EQ,ASTERDM.NS,Aster DM Healthcare Ltd.,Healthcare
+NSE:ASTRAL-EQ,ASTRAL.NS,Astral Ltd.,Capital Goods
+NSE:ATHERENERG-EQ,ATHERENERG.NS,Ather Energy Ltd.,Automobile and Auto Components
+NSE:ATUL-EQ,ATUL.NS,Atul Ltd.,Chemicals
+NSE:AUROPHARMA-EQ,AUROPHARMA.NS,Aurobindo Pharma Ltd.,Healthcare
+NSE:AIIL-EQ,AIIL.NS,Authum Investment & Infrastructure Ltd.,Financial Services
+NSE:DMART-EQ,DMART.NS,Avenue Supermarts Ltd.,Consumer Services
+NSE:AXISBANK-EQ,AXISBANK.NS,Axis Bank Ltd.,Financial Services
+NSE:BEML-EQ,BEML.NS,BEML Ltd.,Capital Goods
+NSE:BLS-EQ,BLS.NS,BLS International Services Ltd.,Consumer Services
+NSE:BSE-EQ,BSE.NS,BSE Ltd.,Financial Services
+NSE:BAJAJ-AUTO-EQ,BAJAJ-AUTO.NS,Bajaj Auto Ltd.,Automobile and Auto Components
+NSE:BAJFINANCE-EQ,BAJFINANCE.NS,Bajaj Finance Ltd.,Financial Services
+NSE:BAJAJFINSV-EQ,BAJAJFINSV.NS,Bajaj Finserv Ltd.,Financial Services
+NSE:BAJAJHLDNG-EQ,BAJAJHLDNG.NS,Bajaj Holdings & Investment Ltd.,Financial Services
+NSE:BAJAJHFL-EQ,BAJAJHFL.NS,Bajaj Housing Finance Ltd.,Financial Services
+NSE:BALKRISIND-EQ,BALKRISIND.NS,Balkrishna Industries Ltd.,Automobile and Auto Components
+NSE:BALRAMCHIN-EQ,BALRAMCHIN.NS,Balrampur Chini Mills Ltd.,Fast Moving Consumer Goods
+NSE:BANDHANBNK-EQ,BANDHANBNK.NS,Bandhan Bank Ltd.,Financial Services
+NSE:BANKBARODA-EQ,BANKBARODA.NS,Bank of Baroda,Financial Services
+NSE:BANKINDIA-EQ,BANKINDIA.NS,Bank of India,Financial Services
+NSE:MAHABANK-EQ,MAHABANK.NS,Bank of Maharashtra,Financial Services
+NSE:BATAINDIA-EQ,BATAINDIA.NS,Bata India Ltd.,Consumer Durables
+NSE:BAYERCROP-EQ,BAYERCROP.NS,Bayer Cropscience Ltd.,Chemicals
+NSE:BELRISE-EQ,BELRISE.NS,Belrise Industries Ltd.,Automobile and Auto Components
+NSE:BERGEPAINT-EQ,BERGEPAINT.NS,Berger Paints India Ltd.,Consumer Durables
+NSE:BDL-EQ,BDL.NS,Bharat Dynamics Ltd.,Capital Goods
+NSE:BEL-EQ,BEL.NS,Bharat Electronics Ltd.,Capital Goods
+NSE:BHARATFORG-EQ,BHARATFORG.NS,Bharat Forge Ltd.,Automobile and Auto Components
+NSE:BHEL-EQ,BHEL.NS,Bharat Heavy Electricals Ltd.,Capital Goods
+NSE:BPCL-EQ,BPCL.NS,Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels
+NSE:BHARTIARTL-EQ,BHARTIARTL.NS,Bharti Airtel Ltd.,Telecommunication
+NSE:BHARTIHEXA-EQ,BHARTIHEXA.NS,Bharti Hexacom Ltd.,Telecommunication
+NSE:BIKAJI-EQ,BIKAJI.NS,Bikaji Foods International Ltd.,Fast Moving Consumer Goods
+NSE:GROWW-EQ,GROWW.NS,Billionbrains Garage Ventures Ltd.,Financial Services
+NSE:BIOCON-EQ,BIOCON.NS,Biocon Ltd.,Healthcare
+NSE:BSOFT-EQ,BSOFT.NS,Birlasoft Ltd.,Information Technology
+NSE:BLUEDART-EQ,BLUEDART.NS,Blue Dart Express Ltd.,Services
+NSE:BLUEJET-EQ,BLUEJET.NS,Blue Jet Healthcare Ltd.,Healthcare
+NSE:BLUESTARCO-EQ,BLUESTARCO.NS,Blue Star Ltd.,Consumer Durables
+NSE:BBTC-EQ,BBTC.NS,Bombay Burmah Trading Corporation Ltd.,Fast Moving Consumer Goods
+NSE:BOSCHLTD-EQ,BOSCHLTD.NS,Bosch Ltd.,Automobile and Auto Components
+NSE:FIRSTCRY-EQ,FIRSTCRY.NS,Brainbees Solutions Ltd.,Consumer Services
+NSE:BRIGADE-EQ,BRIGADE.NS,Brigade Enterprises Ltd.,Realty
+NSE:BRITANNIA-EQ,BRITANNIA.NS,Britannia Industries Ltd.,Fast Moving Consumer Goods
+NSE:MAPMYINDIA-EQ,MAPMYINDIA.NS,C.E. Info Systems Ltd.,Information Technology
+NSE:CCL-EQ,CCL.NS,CCL Products (I) Ltd.,Fast Moving Consumer Goods
+NSE:CESC-EQ,CESC.NS,CESC Ltd.,Power
+NSE:CGPOWER-EQ,CGPOWER.NS,CG Power and Industrial Solutions Ltd.,Capital Goods
+NSE:CIEINDIA-EQ,CIEINDIA.NS,CIE Automotive India Ltd.,Automobile and Auto Components
+NSE:CRISIL-EQ,CRISIL.NS,CRISIL Ltd.,Financial Services
+NSE:CANFINHOME-EQ,CANFINHOME.NS,Can Fin Homes Ltd.,Financial Services
+NSE:CANBK-EQ,CANBK.NS,Canara Bank,Financial Services
+NSE:CANHLIFE-EQ,CANHLIFE.NS,Canara HSBC Life Insurance Company Ltd.,Financial Services
+NSE:CAPLIPOINT-EQ,CAPLIPOINT.NS,Caplin Point Laboratories Ltd.,Healthcare
+NSE:CGCL-EQ,CGCL.NS,Capri Global Capital Ltd.,Financial Services
+NSE:CARBORUNIV-EQ,CARBORUNIV.NS,Carborundum Universal Ltd.,Capital Goods
+NSE:CARTRADE-EQ,CARTRADE.NS,Cartrade Tech Ltd.,Consumer Services
+NSE:CASTROLIND-EQ,CASTROLIND.NS,Castrol India Ltd.,Oil Gas & Consumable Fuels
+NSE:CEATLTD-EQ,CEATLTD.NS,Ceat Ltd.,Automobile and Auto Components
+NSE:CEMPRO-EQ,CEMPRO.NS,Cemindia Projects Ltd.,Construction
+NSE:CENTRALBK-EQ,CENTRALBK.NS,Central Bank of India,Financial Services
+NSE:CDSL-EQ,CDSL.NS,Central Depository Services (India) Ltd.,Financial Services
+NSE:CHALET-EQ,CHALET.NS,Chalet Hotels Ltd.,Consumer Services
+NSE:CHAMBLFERT-EQ,CHAMBLFERT.NS,Chambal Fertilizers & Chemicals Ltd.,Chemicals
+NSE:CHENNPETRO-EQ,CHENNPETRO.NS,Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels
+NSE:CHOICEIN-EQ,CHOICEIN.NS,Choice International Ltd.,Financial Services
+NSE:CHOLAHLDNG-EQ,CHOLAHLDNG.NS,Cholamandalam Financial Holdings Ltd.,Financial Services
+NSE:CHOLAFIN-EQ,CHOLAFIN.NS,Cholamandalam Investment and Finance Company Ltd.,Financial Services
+NSE:CIPLA-EQ,CIPLA.NS,Cipla Ltd.,Healthcare
+NSE:CUB-EQ,CUB.NS,City Union Bank Ltd.,Financial Services
+NSE:CLEAN-EQ,CLEAN.NS,Clean Science and Technology Ltd.,Chemicals
+NSE:COALINDIA-EQ,COALINDIA.NS,Coal India Ltd.,Oil Gas & Consumable Fuels
+NSE:COCHINSHIP-EQ,COCHINSHIP.NS,Cochin Shipyard Ltd.,Capital Goods
+NSE:COFORGE-EQ,COFORGE.NS,Coforge Ltd.,Information Technology
+NSE:COHANCE-EQ,COHANCE.NS,Cohance Lifesciences Ltd.,Healthcare
+NSE:COLPAL-EQ,COLPAL.NS,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods
+NSE:CAMS-EQ,CAMS.NS,Computer Age Management Services Ltd.,Financial Services
+NSE:CONCORDBIO-EQ,CONCORDBIO.NS,Concord Biotech Ltd.,Healthcare
+NSE:CONCOR-EQ,CONCOR.NS,Container Corporation of India Ltd.,Services
+NSE:COROMANDEL-EQ,COROMANDEL.NS,Coromandel International Ltd.,Chemicals
+NSE:CRAFTSMAN-EQ,CRAFTSMAN.NS,Craftsman Automation Ltd.,Automobile and Auto Components
+NSE:CREDITACC-EQ,CREDITACC.NS,CreditAccess Grameen Ltd.,Financial Services
+NSE:CROMPTON-EQ,CROMPTON.NS,Crompton Greaves Consumer Electricals Ltd.,Consumer Durables
+NSE:CUMMINSIND-EQ,CUMMINSIND.NS,Cummins India Ltd.,Capital Goods
+NSE:CYIENT-EQ,CYIENT.NS,Cyient Ltd.,Information Technology
+NSE:DCMSHRIRAM-EQ,DCMSHRIRAM.NS,DCM Shriram Ltd.,Diversified
+NSE:DLF-EQ,DLF.NS,DLF Ltd.,Realty
+NSE:DOMS-EQ,DOMS.NS,DOMS Industries Ltd.,Fast Moving Consumer Goods
+NSE:DABUR-EQ,DABUR.NS,Dabur India Ltd.,Fast Moving Consumer Goods
+NSE:DALBHARAT-EQ,DALBHARAT.NS,Dalmia Bharat Ltd.,Construction Materials
+NSE:DATAPATTNS-EQ,DATAPATTNS.NS,Data Patterns (India) Ltd.,Capital Goods
+NSE:DEEPAKFERT-EQ,DEEPAKFERT.NS,Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals
+NSE:DEEPAKNTR-EQ,DEEPAKNTR.NS,Deepak Nitrite Ltd.,Chemicals
+NSE:DELHIVERY-EQ,DELHIVERY.NS,Delhivery Ltd.,Services
+NSE:DEVYANI-EQ,DEVYANI.NS,Devyani International Ltd.,Consumer Services
+NSE:DIVISLAB-EQ,DIVISLAB.NS,Divi's Laboratories Ltd.,Healthcare
+NSE:DIXON-EQ,DIXON.NS,Dixon Technologies (India) Ltd.,Consumer Durables
+NSE:LALPATHLAB-EQ,LALPATHLAB.NS,Dr. Lal Path Labs Ltd.,Healthcare
+NSE:DRREDDY-EQ,DRREDDY.NS,Dr. Reddy's Laboratories Ltd.,Healthcare
+NSE:DUMMYVEDL1-EQ,DUMMYVEDL1.NS,Dummy Vedanta Ltd. 1,Metals & Mining
+NSE:DUMMYVEDL2-EQ,DUMMYVEDL2.NS,Dummy Vedanta Ltd. 2,Power
+NSE:DUMMYVEDL3-EQ,DUMMYVEDL3.NS,Dummy Vedanta Ltd. 3,Oil Gas & Consumable Fuels
+NSE:DUMMYVEDL4-EQ,DUMMYVEDL4.NS,Dummy Vedanta Ltd. 4,Metals & Mining
+NSE:EIDPARRY-EQ,EIDPARRY.NS,E.I.D. Parry (India) Ltd.,Fast Moving Consumer Goods
+NSE:EIHOTEL-EQ,EIHOTEL.NS,EIH Ltd.,Consumer Services
+NSE:EICHERMOT-EQ,EICHERMOT.NS,Eicher Motors Ltd.,Automobile and Auto Components
+NSE:ELECON-EQ,ELECON.NS,Elecon Engineering Co. Ltd.,Capital Goods
+NSE:ELGIEQUIP-EQ,ELGIEQUIP.NS,Elgi Equipments Ltd.,Capital Goods
+NSE:EMAMILTD-EQ,EMAMILTD.NS,Emami Ltd.,Fast Moving Consumer Goods
+NSE:EMCURE-EQ,EMCURE.NS,Emcure Pharmaceuticals Ltd.,Healthcare
+NSE:EMMVEE-EQ,EMMVEE.NS,Emmvee Photovoltaic Power Ltd.,Capital Goods
+NSE:ENDURANCE-EQ,ENDURANCE.NS,Endurance Technologies Ltd.,Automobile and Auto Components
+NSE:ENGINERSIN-EQ,ENGINERSIN.NS,Engineers India Ltd.,Construction
+NSE:ERIS-EQ,ERIS.NS,Eris Lifesciences Ltd.,Healthcare
+NSE:ESCORTS-EQ,ESCORTS.NS,Escorts Kubota Ltd.,Capital Goods
+NSE:ETERNAL-EQ,ETERNAL.NS,Eternal Ltd.,Consumer Services
+NSE:EXIDEIND-EQ,EXIDEIND.NS,Exide Industries Ltd.,Automobile and Auto Components
+NSE:NYKAA-EQ,NYKAA.NS,FSN E-Commerce Ventures Ltd.,Consumer Services
+NSE:FEDERALBNK-EQ,FEDERALBNK.NS,Federal Bank Ltd.,Financial Services
+NSE:FACT-EQ,FACT.NS,Fertilisers and Chemicals Travancore Ltd.,Chemicals
+NSE:FINCABLES-EQ,FINCABLES.NS,Finolex Cables Ltd.,Capital Goods
+NSE:FSL-EQ,FSL.NS,Firstsource Solutions Ltd.,Services
+NSE:FIVESTAR-EQ,FIVESTAR.NS,Five-Star Business Finance Ltd.,Financial Services
+NSE:FORCEMOT-EQ,FORCEMOT.NS,Force Motors Ltd.,Automobile and Auto Components
+NSE:FORTIS-EQ,FORTIS.NS,Fortis Healthcare Ltd.,Healthcare
+NSE:GAIL-EQ,GAIL.NS,GAIL (India) Ltd.,Oil Gas & Consumable Fuels
+NSE:GVT&D-EQ,GVT&D.NS,GE Vernova T&D India Ltd.,Capital Goods
+NSE:GMRAIRPORT-EQ,GMRAIRPORT.NS,GMR Airports Ltd.,Services
+NSE:GABRIEL-EQ,GABRIEL.NS,Gabriel India Ltd.,Automobile and Auto Components
+NSE:GALLANTT-EQ,GALLANTT.NS,Gallantt Ispat Ltd.,Capital Goods
+NSE:GRSE-EQ,GRSE.NS,Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods
+NSE:GICRE-EQ,GICRE.NS,General Insurance Corporation of India,Financial Services
+NSE:GILLETTE-EQ,GILLETTE.NS,Gillette India Ltd.,Fast Moving Consumer Goods
+NSE:GLAND-EQ,GLAND.NS,Gland Pharma Ltd.,Healthcare
+NSE:GLAXO-EQ,GLAXO.NS,Glaxosmithkline Pharmaceuticals Ltd.,Healthcare
+NSE:GLENMARK-EQ,GLENMARK.NS,Glenmark Pharmaceuticals Ltd.,Healthcare
+NSE:MEDANTA-EQ,MEDANTA.NS,Global Health Ltd.,Healthcare
+NSE:GODIGIT-EQ,GODIGIT.NS,Go Digit General Insurance Ltd.,Financial Services
+NSE:GPIL-EQ,GPIL.NS,Godawari Power & Ispat Ltd.,Capital Goods
+NSE:GODFRYPHLP-EQ,GODFRYPHLP.NS,Godfrey Phillips India Ltd.,Fast Moving Consumer Goods
+NSE:GODREJCP-EQ,GODREJCP.NS,Godrej Consumer Products Ltd.,Fast Moving Consumer Goods
+NSE:GODREJIND-EQ,GODREJIND.NS,Godrej Industries Ltd.,Diversified
+NSE:GODREJPROP-EQ,GODREJPROP.NS,Godrej Properties Ltd.,Realty
+NSE:GRANULES-EQ,GRANULES.NS,Granules India Ltd.,Healthcare
+NSE:GRAPHITE-EQ,GRAPHITE.NS,Graphite India Ltd.,Capital Goods
+NSE:GRASIM-EQ,GRASIM.NS,Grasim Industries Ltd.,Construction Materials
+NSE:GRAVITA-EQ,GRAVITA.NS,Gravita India Ltd.,Metals & Mining
+NSE:GESHIP-EQ,GESHIP.NS,Great Eastern Shipping Co. Ltd.,Services
+NSE:FLUOROCHEM-EQ,FLUOROCHEM.NS,Gujarat Fluorochemicals Ltd.,Chemicals
+NSE:GMDCLTD-EQ,GMDCLTD.NS,Gujarat Mineral Development Corporation Ltd.,Metals & Mining
+NSE:HEG-EQ,HEG.NS,H.E.G. Ltd.,Capital Goods
+NSE:HBLENGINE-EQ,HBLENGINE.NS,HBL Engineering Ltd.,Capital Goods
+NSE:HCLTECH-EQ,HCLTECH.NS,HCL Technologies Ltd.,Information Technology
+NSE:HDBFS-EQ,HDBFS.NS,HDB Financial Services Ltd.,Financial Services
+NSE:HDFCAMC-EQ,HDFCAMC.NS,HDFC Asset Management Company Ltd.,Financial Services
+NSE:HDFCBANK-EQ,HDFCBANK.NS,HDFC Bank Ltd.,Financial Services
+NSE:HDFCLIFE-EQ,HDFCLIFE.NS,HDFC Life Insurance Company Ltd.,Financial Services
+NSE:HFCL-EQ,HFCL.NS,HFCL Ltd.,Telecommunication
+NSE:HAVELLS-EQ,HAVELLS.NS,Havells India Ltd.,Consumer Durables
+NSE:HEROMOTOCO-EQ,HEROMOTOCO.NS,Hero MotoCorp Ltd.,Automobile and Auto Components
+NSE:HEXT-EQ,HEXT.NS,Hexaware Technologies Ltd.,Information Technology
+NSE:HSCL-EQ,HSCL.NS,Himadri Speciality Chemical Ltd.,Chemicals
+NSE:HINDALCO-EQ,HINDALCO.NS,Hindalco Industries Ltd.,Metals & Mining
+NSE:HAL-EQ,HAL.NS,Hindustan Aeronautics Ltd.,Capital Goods
+NSE:HINDCOPPER-EQ,HINDCOPPER.NS,Hindustan Copper Ltd.,Metals & Mining
+NSE:HINDPETRO-EQ,HINDPETRO.NS,Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels
+NSE:HINDUNILVR-EQ,HINDUNILVR.NS,Hindustan Unilever Ltd.,Fast Moving Consumer Goods
+NSE:HINDZINC-EQ,HINDZINC.NS,Hindustan Zinc Ltd.,Metals & Mining
+NSE:POWERINDIA-EQ,POWERINDIA.NS,Hitachi Energy India Ltd.,Capital Goods
+NSE:HOMEFIRST-EQ,HOMEFIRST.NS,Home First Finance Company India Ltd.,Financial Services
+NSE:HONASA-EQ,HONASA.NS,Honasa Consumer Ltd.,Fast Moving Consumer Goods
+NSE:HONAUT-EQ,HONAUT.NS,Honeywell Automation India Ltd.,Capital Goods
+NSE:HUDCO-EQ,HUDCO.NS,Housing & Urban Development Corporation Ltd.,Financial Services
+NSE:HYUNDAI-EQ,HYUNDAI.NS,Hyundai Motor India Ltd.,Automobile and Auto Components
+NSE:ICICIBANK-EQ,ICICIBANK.NS,ICICI Bank Ltd.,Financial Services
+NSE:ICICIGI-EQ,ICICIGI.NS,ICICI Lombard General Insurance Company Ltd.,Financial Services
+NSE:ICICIAMC-EQ,ICICIAMC.NS,ICICI Prudential Asset Management Company Ltd.,Financial Services
+NSE:ICICIPRULI-EQ,ICICIPRULI.NS,ICICI Prudential Life Insurance Company Ltd.,Financial Services
+NSE:IDBI-EQ,IDBI.NS,IDBI Bank Ltd.,Financial Services
+NSE:IDFCFIRSTB-EQ,IDFCFIRSTB.NS,IDFC First Bank Ltd.,Financial Services
+NSE:IFCI-EQ,IFCI.NS,IFCI Ltd.,Financial Services
+NSE:IIFL-EQ,IIFL.NS,IIFL Finance Ltd.,Financial Services
+NSE:IRB-EQ,IRB.NS,IRB Infrastructure Developers Ltd.,Construction
+NSE:IRCON-EQ,IRCON.NS,IRCON International Ltd.,Construction
+NSE:ITCHOTELS-EQ,ITCHOTELS.NS,ITC Hotels Ltd.,Consumer Services
+NSE:ITC-EQ,ITC.NS,ITC Ltd.,Fast Moving Consumer Goods
+NSE:ITI-EQ,ITI.NS,ITI Ltd.,Telecommunication
+NSE:INDGN-EQ,INDGN.NS,Indegene Ltd.,Healthcare
+NSE:INDIACEM-EQ,INDIACEM.NS,India Cements Ltd.,Construction Materials
+NSE:INDIAMART-EQ,INDIAMART.NS,Indiamart Intermesh Ltd.,Consumer Services
+NSE:INDIANB-EQ,INDIANB.NS,Indian Bank,Financial Services
+NSE:IEX-EQ,IEX.NS,Indian Energy Exchange Ltd.,Financial Services
+NSE:INDHOTEL-EQ,INDHOTEL.NS,Indian Hotels Co. Ltd.,Consumer Services
+NSE:IOC-EQ,IOC.NS,Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels
+NSE:IOB-EQ,IOB.NS,Indian Overseas Bank,Financial Services
+NSE:IRCTC-EQ,IRCTC.NS,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services
+NSE:IRFC-EQ,IRFC.NS,Indian Railway Finance Corporation Ltd.,Financial Services
+NSE:IREDA-EQ,IREDA.NS,Indian Renewable Energy Development Agency Ltd.,Financial Services
+NSE:IGL-EQ,IGL.NS,Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels
+NSE:INDUSTOWER-EQ,INDUSTOWER.NS,Indus Towers Ltd.,Telecommunication
+NSE:INDUSINDBK-EQ,INDUSINDBK.NS,IndusInd Bank Ltd.,Financial Services
+NSE:NAUKRI-EQ,NAUKRI.NS,Info Edge (India) Ltd.,Consumer Services
+NSE:INFY-EQ,INFY.NS,Infosys Ltd.,Information Technology
+NSE:INOXWIND-EQ,INOXWIND.NS,Inox Wind Ltd.,Capital Goods
+NSE:INTELLECT-EQ,INTELLECT.NS,Intellect Design Arena Ltd.,Information Technology
+NSE:INDIGO-EQ,INDIGO.NS,InterGlobe Aviation Ltd.,Services
+NSE:IGIL-EQ,IGIL.NS,International Gemological Institute Ltd.,Services
+NSE:IKS-EQ,IKS.NS,Inventurus Knowledge Solutions Ltd.,Information Technology
+NSE:IPCALAB-EQ,IPCALAB.NS,Ipca Laboratories Ltd.,Healthcare
+NSE:JBCHEPHARM-EQ,JBCHEPHARM.NS,J.B. Chemicals & Pharmaceuticals Ltd.,Healthcare
+NSE:JKCEMENT-EQ,JKCEMENT.NS,J.K. Cement Ltd.,Construction Materials
+NSE:JBMA-EQ,JBMA.NS,JBM Auto Ltd.,Automobile and Auto Components
+NSE:JKTYRE-EQ,JKTYRE.NS,JK Tyre & Industries Ltd.,Automobile and Auto Components
+NSE:JMFINANCIL-EQ,JMFINANCIL.NS,JM Financial Ltd.,Financial Services
+NSE:JSWCEMENT-EQ,JSWCEMENT.NS,JSW Cement Ltd.,Construction Materials
+NSE:JSWDULUX-EQ,JSWDULUX.NS,JSW Dulux Ltd.,Consumer Durables
+NSE:JSWENERGY-EQ,JSWENERGY.NS,JSW Energy Ltd.,Power
+NSE:JSWINFRA-EQ,JSWINFRA.NS,JSW Infrastructure Ltd.,Services
+NSE:JSWSTEEL-EQ,JSWSTEEL.NS,JSW Steel Ltd.,Metals & Mining
+NSE:JAINREC-EQ,JAINREC.NS,Jain Resource Recycling Ltd.,Metals & Mining
+NSE:JPPOWER-EQ,JPPOWER.NS,Jaiprakash Power Ventures Ltd.,Power
+NSE:J&KBANK-EQ,J&KBANK.NS,Jammu & Kashmir Bank Ltd.,Financial Services
+NSE:JINDALSAW-EQ,JINDALSAW.NS,Jindal Saw Ltd.,Capital Goods
+NSE:JSL-EQ,JSL.NS,Jindal Stainless Ltd.,Metals & Mining
+NSE:JINDALSTEL-EQ,JINDALSTEL.NS,Jindal Steel Ltd.,Metals & Mining
+NSE:JIOFIN-EQ,JIOFIN.NS,Jio Financial Services Ltd.,Financial Services
+NSE:JUBLFOOD-EQ,JUBLFOOD.NS,Jubilant Foodworks Ltd.,Consumer Services
+NSE:JUBLINGREA-EQ,JUBLINGREA.NS,Jubilant Ingrevia Ltd.,Chemicals
+NSE:JUBLPHARMA-EQ,JUBLPHARMA.NS,Jubilant Pharmova Ltd.,Healthcare
+NSE:JWL-EQ,JWL.NS,Jupiter Wagons Ltd.,Capital Goods
+NSE:JYOTICNC-EQ,JYOTICNC.NS,Jyoti CNC Automation Ltd.,Capital Goods
+NSE:KPRMILL-EQ,KPRMILL.NS,K.P.R. Mill Ltd.,Textiles
+NSE:KEI-EQ,KEI.NS,KEI Industries Ltd.,Capital Goods
+NSE:KPITTECH-EQ,KPITTECH.NS,KPIT Technologies Ltd.,Information Technology
+NSE:KAJARIACER-EQ,KAJARIACER.NS,Kajaria Ceramics Ltd.,Consumer Durables
+NSE:KPIL-EQ,KPIL.NS,Kalpataru Projects International Ltd.,Construction
+NSE:KALYANKJIL-EQ,KALYANKJIL.NS,Kalyan Jewellers India Ltd.,Consumer Durables
+NSE:KARURVYSYA-EQ,KARURVYSYA.NS,Karur Vysya Bank Ltd.,Financial Services
+NSE:KAYNES-EQ,KAYNES.NS,Kaynes Technology India Ltd.,Capital Goods
+NSE:KEC-EQ,KEC.NS,Kec International Ltd.,Construction
+NSE:KFINTECH-EQ,KFINTECH.NS,Kfin Technologies Ltd.,Financial Services
+NSE:KIRLOSENG-EQ,KIRLOSENG.NS,Kirloskar Oil Eng Ltd.,Capital Goods
+NSE:KOTAKBANK-EQ,KOTAKBANK.NS,Kotak Mahindra Bank Ltd.,Financial Services
+NSE:KIMS-EQ,KIMS.NS,Krishna Institute of Medical Sciences Ltd.,Healthcare
+NSE:LTF-EQ,LTF.NS,L&T Finance Ltd.,Financial Services
+NSE:LTTS-EQ,LTTS.NS,L&T Technology Services Ltd.,Information Technology
+NSE:LGEINDIA-EQ,LGEINDIA.NS,LG Electronics India Ltd.,Consumer Durables
+NSE:LICHSGFIN-EQ,LICHSGFIN.NS,LIC Housing Finance Ltd.,Financial Services
+NSE:LTFOODS-EQ,LTFOODS.NS,LT Foods Ltd.,Fast Moving Consumer Goods
+NSE:LTM-EQ,LTM.NS,LTM Ltd.,Information Technology
+NSE:LT-EQ,LT.NS,Larsen & Toubro Ltd.,Construction
+NSE:LATENTVIEW-EQ,LATENTVIEW.NS,Latent View Analytics Ltd.,Information Technology
+NSE:LAURUSLABS-EQ,LAURUSLABS.NS,Laurus Labs Ltd.,Healthcare
+NSE:THELEELA-EQ,THELEELA.NS,Leela Palaces Hotels & Resorts Ltd.,Consumer Services
+NSE:LEMONTREE-EQ,LEMONTREE.NS,Lemon Tree Hotels Ltd.,Consumer Services
+NSE:LENSKART-EQ,LENSKART.NS,Lenskart Solutions Ltd.,Consumer Services
+NSE:LICI-EQ,LICI.NS,Life Insurance Corporation of India,Financial Services
+NSE:LINDEINDIA-EQ,LINDEINDIA.NS,Linde India Ltd.,Chemicals
+NSE:LLOYDSME-EQ,LLOYDSME.NS,Lloyds Metals And Energy Ltd.,Metals & Mining
+NSE:LODHA-EQ,LODHA.NS,Lodha Developers Ltd.,Realty
+NSE:LUPIN-EQ,LUPIN.NS,Lupin Ltd.,Healthcare
+NSE:MMTC-EQ,MMTC.NS,MMTC Ltd.,Services
+NSE:MRF-EQ,MRF.NS,MRF Ltd.,Automobile and Auto Components
+NSE:MGL-EQ,MGL.NS,Mahanagar Gas Ltd.,Oil Gas & Consumable Fuels
+NSE:M&MFIN-EQ,M&MFIN.NS,Mahindra & Mahindra Financial Services Ltd.,Financial Services
+NSE:M&M-EQ,M&M.NS,Mahindra & Mahindra Ltd.,Automobile and Auto Components
+NSE:MANAPPURAM-EQ,MANAPPURAM.NS,Manappuram Finance Ltd.,Financial Services
+NSE:MRPL-EQ,MRPL.NS,Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels
+NSE:MANKIND-EQ,MANKIND.NS,Mankind Pharma Ltd.,Healthcare
+NSE:MARICO-EQ,MARICO.NS,Marico Ltd.,Fast Moving Consumer Goods
+NSE:MARUTI-EQ,MARUTI.NS,Maruti Suzuki India Ltd.,Automobile and Auto Components
+NSE:MFSL-EQ,MFSL.NS,Max Financial Services Ltd.,Financial Services
+NSE:MAXHEALTH-EQ,MAXHEALTH.NS,Max Healthcare Institute Ltd.,Healthcare
+NSE:MAZDOCK-EQ,MAZDOCK.NS,Mazagoan Dock Shipbuilders Ltd.,Capital Goods
+NSE:MEESHO-EQ,MEESHO.NS,Meesho Ltd.,Consumer Services
+NSE:MINDACORP-EQ,MINDACORP.NS,Minda Corporation Ltd.,Automobile and Auto Components
+NSE:MSUMI-EQ,MSUMI.NS,Motherson Sumi Wiring India Ltd.,Automobile and Auto Components
+NSE:MOTILALOFS-EQ,MOTILALOFS.NS,Motilal Oswal Financial Services Ltd.,Financial Services
+NSE:MPHASIS-EQ,MPHASIS.NS,MphasiS Ltd.,Information Technology
+NSE:MCX-EQ,MCX.NS,Multi Commodity Exchange of India Ltd.,Financial Services
+NSE:MUTHOOTFIN-EQ,MUTHOOTFIN.NS,Muthoot Finance Ltd.,Financial Services
+NSE:NATCOPHARM-EQ,NATCOPHARM.NS,NATCO Pharma Ltd.,Healthcare
+NSE:NBCC-EQ,NBCC.NS,NBCC (India) Ltd.,Construction
+NSE:NCC-EQ,NCC.NS,NCC Ltd.,Construction
+NSE:NHPC-EQ,NHPC.NS,NHPC Ltd.,Power
+NSE:NLCINDIA-EQ,NLCINDIA.NS,NLC India Ltd.,Power
+NSE:NMDC-EQ,NMDC.NS,NMDC Ltd.,Metals & Mining
+NSE:NSLNISP-EQ,NSLNISP.NS,NMDC Steel Ltd.,Metals & Mining
+NSE:NTPCGREEN-EQ,NTPCGREEN.NS,NTPC Green Energy Ltd.,Power
+NSE:NTPC-EQ,NTPC.NS,NTPC Ltd.,Power
+NSE:NH-EQ,NH.NS,Narayana Hrudayalaya Ltd.,Healthcare
+NSE:NATIONALUM-EQ,NATIONALUM.NS,National Aluminium Co. Ltd.,Metals & Mining
+NSE:NAVA-EQ,NAVA.NS,Nava Ltd.,Power
+NSE:NAVINFLUOR-EQ,NAVINFLUOR.NS,Navin Fluorine International Ltd.,Chemicals
+NSE:NESTLEIND-EQ,NESTLEIND.NS,Nestle India Ltd.,Fast Moving Consumer Goods
+NSE:NETWEB-EQ,NETWEB.NS,Netweb Technologies India Ltd.,Information Technology
+NSE:NEULANDLAB-EQ,NEULANDLAB.NS,Neuland Laboratories Ltd.,Healthcare
+NSE:NEWGEN-EQ,NEWGEN.NS,Newgen Software Technologies Ltd.,Information Technology
+NSE:NAM-INDIA-EQ,NAM-INDIA.NS,Nippon Life India Asset Management Ltd.,Financial Services
+NSE:NIVABUPA-EQ,NIVABUPA.NS,Niva Bupa Health Insurance Company Ltd.,Financial Services
+NSE:NUVAMA-EQ,NUVAMA.NS,Nuvama Wealth Management Ltd.,Financial Services
+NSE:NUVOCO-EQ,NUVOCO.NS,Nuvoco Vistas Corporation Ltd.,Construction Materials
+NSE:OBEROIRLTY-EQ,OBEROIRLTY.NS,Oberoi Realty Ltd.,Realty
+NSE:ONGC-EQ,ONGC.NS,Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels
+NSE:OIL-EQ,OIL.NS,Oil India Ltd.,Oil Gas & Consumable Fuels
+NSE:OLAELEC-EQ,OLAELEC.NS,Ola Electric Mobility Ltd.,Automobile and Auto Components
+NSE:OLECTRA-EQ,OLECTRA.NS,Olectra Greentech Ltd.,Automobile and Auto Components
+NSE:PAYTM-EQ,PAYTM.NS,One 97 Communications Ltd.,Financial Services
+NSE:ONESOURCE-EQ,ONESOURCE.NS,Onesource Specialty Pharma Ltd.,Healthcare
+NSE:OFSS-EQ,OFSS.NS,Oracle Financial Services Software Ltd.,Information Technology
+NSE:POLICYBZR-EQ,POLICYBZR.NS,PB Fintech Ltd.,Financial Services
+NSE:PCBL-EQ,PCBL.NS,PCBL Chemical Ltd.,Chemicals
+NSE:PGEL-EQ,PGEL.NS,PG Electroplast Ltd.,Consumer Durables
+NSE:PIIND-EQ,PIIND.NS,PI Industries Ltd.,Chemicals
+NSE:PNBHOUSING-EQ,PNBHOUSING.NS,PNB Housing Finance Ltd.,Financial Services
+NSE:PTCIL-EQ,PTCIL.NS,PTC Industries Ltd.,Capital Goods
+NSE:PVRINOX-EQ,PVRINOX.NS,PVR INOX Ltd.,Media Entertainment & Publication
+NSE:PAGEIND-EQ,PAGEIND.NS,Page Industries Ltd.,Textiles
+NSE:PARADEEP-EQ,PARADEEP.NS,Paradeep Phosphates Ltd.,Chemicals
+NSE:PATANJALI-EQ,PATANJALI.NS,Patanjali Foods Ltd.,Fast Moving Consumer Goods
+NSE:PERSISTENT-EQ,PERSISTENT.NS,Persistent Systems Ltd.,Information Technology
+NSE:PETRONET-EQ,PETRONET.NS,Petronet LNG Ltd.,Oil Gas & Consumable Fuels
+NSE:PFIZER-EQ,PFIZER.NS,Pfizer Ltd.,Healthcare
+NSE:PHOENIXLTD-EQ,PHOENIXLTD.NS,Phoenix Mills Ltd.,Realty
+NSE:PWL-EQ,PWL.NS,Physicswallah Ltd.,Consumer Services
+NSE:PIDILITIND-EQ,PIDILITIND.NS,Pidilite Industries Ltd.,Chemicals
+NSE:PINELABS-EQ,PINELABS.NS,Pine Labs Ltd.,Financial Services
+NSE:PIRAMALFIN-EQ,PIRAMALFIN.NS,Piramal Finance Ltd.,Financial Services
+NSE:PPLPHARMA-EQ,PPLPHARMA.NS,Piramal Pharma Ltd.,Healthcare
+NSE:POLYMED-EQ,POLYMED.NS,Poly Medicure Ltd.,Healthcare
+NSE:POLYCAB-EQ,POLYCAB.NS,Polycab India Ltd.,Capital Goods
+NSE:POONAWALLA-EQ,POONAWALLA.NS,Poonawalla Fincorp Ltd.,Financial Services
+NSE:PFC-EQ,PFC.NS,Power Finance Corporation Ltd.,Financial Services
+NSE:POWERGRID-EQ,POWERGRID.NS,Power Grid Corporation of India Ltd.,Power
+NSE:PREMIERENE-EQ,PREMIERENE.NS,Premier Energies Ltd.,Capital Goods
+NSE:PRESTIGE-EQ,PRESTIGE.NS,Prestige Estates Projects Ltd.,Realty
+NSE:PNB-EQ,PNB.NS,Punjab National Bank,Financial Services
+NSE:RRKABEL-EQ,RRKABEL.NS,R R Kabel Ltd.,Capital Goods
+NSE:RBLBANK-EQ,RBLBANK.NS,RBL Bank Ltd.,Financial Services
+NSE:RECLTD-EQ,RECLTD.NS,REC Ltd.,Financial Services
+NSE:RHIM-EQ,RHIM.NS,RHI MAGNESITA INDIA LTD.,Capital Goods
+NSE:RITES-EQ,RITES.NS,RITES Ltd.,Construction
+NSE:RADICO-EQ,RADICO.NS,Radico Khaitan Ltd,Fast Moving Consumer Goods
+NSE:RVNL-EQ,RVNL.NS,Rail Vikas Nigam Ltd.,Construction
+NSE:RAILTEL-EQ,RAILTEL.NS,Railtel Corporation Of India Ltd.,Telecommunication
+NSE:RAINBOW-EQ,RAINBOW.NS,Rainbow Childrens Medicare Ltd.,Healthcare
+NSE:RKFORGE-EQ,RKFORGE.NS,Ramkrishna Forgings Ltd.,Automobile and Auto Components
+NSE:REDINGTON-EQ,REDINGTON.NS,Redington Ltd.,Services
+NSE:RELIANCE-EQ,RELIANCE.NS,Reliance Industries Ltd.,Oil Gas & Consumable Fuels
+NSE:RPOWER-EQ,RPOWER.NS,Reliance Power Ltd.,Power
+NSE:SBFC-EQ,SBFC.NS,SBFC Finance Ltd.,Financial Services
+NSE:SBICARD-EQ,SBICARD.NS,SBI Cards and Payment Services Ltd.,Financial Services
+NSE:SBILIFE-EQ,SBILIFE.NS,SBI Life Insurance Company Ltd.,Financial Services
+NSE:SJVN-EQ,SJVN.NS,SJVN Ltd.,Power
+NSE:SRF-EQ,SRF.NS,SRF Ltd.,Chemicals
+NSE:SAGILITY-EQ,SAGILITY.NS,Sagility Ltd.,Information Technology
+NSE:SAILIFE-EQ,SAILIFE.NS,Sai Life Sciences Ltd.,Healthcare
+NSE:SAMMAANCAP-EQ,SAMMAANCAP.NS,Sammaan Capital Ltd.,Financial Services
+NSE:MOTHERSON-EQ,MOTHERSON.NS,Samvardhana Motherson International Ltd.,Automobile and Auto Components
+NSE:SAPPHIRE-EQ,SAPPHIRE.NS,Sapphire Foods India Ltd.,Consumer Services
+NSE:SARDAEN-EQ,SARDAEN.NS,Sarda Energy and Minerals Ltd.,Metals & Mining
+NSE:SAREGAMA-EQ,SAREGAMA.NS,Saregama India Ltd,Media Entertainment & Publication
+NSE:SCHAEFFLER-EQ,SCHAEFFLER.NS,Schaeffler India Ltd.,Automobile and Auto Components
+NSE:SCHNEIDER-EQ,SCHNEIDER.NS,Schneider Electric Infrastructure Ltd.,Capital Goods
+NSE:SCI-EQ,SCI.NS,Shipping Corporation of India Ltd.,Services
+NSE:SHREECEM-EQ,SHREECEM.NS,Shree Cement Ltd.,Construction Materials
+NSE:SHRIRAMFIN-EQ,SHRIRAMFIN.NS,Shriram Finance Ltd.,Financial Services
+NSE:SHYAMMETL-EQ,SHYAMMETL.NS,Shyam Metalics and Energy Ltd.,Capital Goods
+NSE:ENRIN-EQ,ENRIN.NS,Siemens Energy India Ltd.,Capital Goods
+NSE:SIEMENS-EQ,SIEMENS.NS,Siemens Ltd.,Capital Goods
+NSE:SIGNATURE-EQ,SIGNATURE.NS,Signatureglobal (India) Ltd.,Realty
+NSE:SOBHA-EQ,SOBHA.NS,Sobha Ltd.,Realty
+NSE:SOLARINDS-EQ,SOLARINDS.NS,Solar Industries India Ltd.,Chemicals
+NSE:SONACOMS-EQ,SONACOMS.NS,Sona BLW Precision Forgings Ltd.,Automobile and Auto Components
+NSE:SONATSOFTW-EQ,SONATSOFTW.NS,Sonata Software Ltd.,Information Technology
+NSE:STARHEALTH-EQ,STARHEALTH.NS,Star Health and Allied Insurance Company Ltd.,Financial Services
+NSE:SBIN-EQ,SBIN.NS,State Bank of India,Financial Services
+NSE:SAIL-EQ,SAIL.NS,Steel Authority of India Ltd.,Metals & Mining
+NSE:SUMICHEM-EQ,SUMICHEM.NS,Sumitomo Chemical India Ltd.,Chemicals
+NSE:SUNPHARMA-EQ,SUNPHARMA.NS,Sun Pharmaceutical Industries Ltd.,Healthcare
+NSE:SUNTV-EQ,SUNTV.NS,Sun TV Network Ltd.,Media Entertainment & Publication
+NSE:SUNDARMFIN-EQ,SUNDARMFIN.NS,Sundaram Finance Ltd.,Financial Services
+NSE:SUPREMEIND-EQ,SUPREMEIND.NS,Supreme Industries Ltd.,Capital Goods
+NSE:SPLPETRO-EQ,SPLPETRO.NS,Supreme Petrochem Ltd.,Chemicals
+NSE:SUZLON-EQ,SUZLON.NS,Suzlon Energy Ltd.,Capital Goods
+NSE:SWANCORP-EQ,SWANCORP.NS,Swan Corp Ltd.,Chemicals
+NSE:SWIGGY-EQ,SWIGGY.NS,Swiggy Ltd.,Consumer Services
+NSE:SYNGENE-EQ,SYNGENE.NS,Syngene International Ltd.,Healthcare
+NSE:SYRMA-EQ,SYRMA.NS,Syrma SGS Technology Ltd.,Capital Goods
+NSE:TBOTEK-EQ,TBOTEK.NS,TBO Tek Ltd.,Consumer Services
+NSE:TVSMOTOR-EQ,TVSMOTOR.NS,TVS Motor Company Ltd.,Automobile and Auto Components
+NSE:TATACAP-EQ,TATACAP.NS,Tata Capital Ltd.,Financial Services
+NSE:TATACHEM-EQ,TATACHEM.NS,Tata Chemicals Ltd.,Chemicals
+NSE:TATACOMM-EQ,TATACOMM.NS,Tata Communications Ltd.,Telecommunication
+NSE:TCS-EQ,TCS.NS,Tata Consultancy Services Ltd.,Information Technology
+NSE:TATACONSUM-EQ,TATACONSUM.NS,Tata Consumer Products Ltd.,Fast Moving Consumer Goods
+NSE:TATAELXSI-EQ,TATAELXSI.NS,Tata Elxsi Ltd.,Information Technology
+NSE:TATAINVEST-EQ,TATAINVEST.NS,Tata Investment Corporation Ltd.,Financial Services
+NSE:TMCV-EQ,TMCV.NS,Tata Motors Ltd.,Capital Goods
+NSE:TMPV-EQ,TMPV.NS,Tata Motors Passenger Vehicles Ltd.,Automobile and Auto Components
+NSE:TATAPOWER-EQ,TATAPOWER.NS,Tata Power Co. Ltd.,Power
+NSE:TATASTEEL-EQ,TATASTEEL.NS,Tata Steel Ltd.,Metals & Mining
+NSE:TATATECH-EQ,TATATECH.NS,Tata Technologies Ltd.,Information Technology
+NSE:TTML-EQ,TTML.NS,Tata Teleservices (Maharashtra) Ltd.,Telecommunication
+NSE:TECHM-EQ,TECHM.NS,Tech Mahindra Ltd.,Information Technology
+NSE:TECHNOE-EQ,TECHNOE.NS,Techno Electric & Engineering Company Ltd.,Construction
+NSE:TEGA-EQ,TEGA.NS,Tega Industries Ltd.,Capital Goods
+NSE:TEJASNET-EQ,TEJASNET.NS,Tejas Networks Ltd.,Telecommunication
+NSE:TENNIND-EQ,TENNIND.NS,Tenneco Clean Air India Ltd.,Automobile and Auto Components
+NSE:NIACL-EQ,NIACL.NS,The New India Assurance Company Ltd.,Financial Services
+NSE:RAMCOCEM-EQ,RAMCOCEM.NS,The Ramco Cements Ltd.,Construction Materials
+NSE:THERMAX-EQ,THERMAX.NS,Thermax Ltd.,Capital Goods
+NSE:TIMKEN-EQ,TIMKEN.NS,Timken India Ltd.,Capital Goods
+NSE:TITAGARH-EQ,TITAGARH.NS,Titagarh Rail Systems Ltd.,Capital Goods
+NSE:TITAN-EQ,TITAN.NS,Titan Company Ltd.,Consumer Durables
+NSE:TORNTPHARM-EQ,TORNTPHARM.NS,Torrent Pharmaceuticals Ltd.,Healthcare
+NSE:TORNTPOWER-EQ,TORNTPOWER.NS,Torrent Power Ltd.,Power
+NSE:TARIL-EQ,TARIL.NS,Transformers And Rectifiers (India) Ltd.,Capital Goods
+NSE:TRAVELFOOD-EQ,TRAVELFOOD.NS,Travel Food Services Ltd.,Consumer Services
+NSE:TRENT-EQ,TRENT.NS,Trent Ltd.,Consumer Services
+NSE:TRIDENT-EQ,TRIDENT.NS,Trident Ltd.,Textiles
+NSE:TRITURBINE-EQ,TRITURBINE.NS,Triveni Turbine Ltd.,Capital Goods
+NSE:TIINDIA-EQ,TIINDIA.NS,Tube Investments of India Ltd.,Automobile and Auto Components
+NSE:UCOBANK-EQ,UCOBANK.NS,UCO Bank,Financial Services
+NSE:UNOMINDA-EQ,UNOMINDA.NS,UNO Minda Ltd.,Automobile and Auto Components
+NSE:UPL-EQ,UPL.NS,UPL Ltd.,Chemicals
+NSE:UTIAMC-EQ,UTIAMC.NS,UTI Asset Management Company Ltd.,Financial Services
+NSE:ULTRACEMCO-EQ,ULTRACEMCO.NS,UltraTech Cement Ltd.,Construction Materials
+NSE:UNIONBANK-EQ,UNIONBANK.NS,Union Bank of India,Financial Services
+NSE:UBL-EQ,UBL.NS,United Breweries Ltd.,Fast Moving Consumer Goods
+NSE:UNITDSPR-EQ,UNITDSPR.NS,United Spirits Ltd.,Fast Moving Consumer Goods
+NSE:URBANCO-EQ,URBANCO.NS,Urban Company Ltd.,Consumer Services
+NSE:USHAMART-EQ,USHAMART.NS,Usha Martin Ltd.,Capital Goods
+NSE:VTL-EQ,VTL.NS,Vardhman Textiles Ltd.,Textiles
+NSE:VBL-EQ,VBL.NS,Varun Beverages Ltd.,Fast Moving Consumer Goods
+NSE:VEDL-EQ,VEDL.NS,Vedanta Ltd.,Metals & Mining
+NSE:VIJAYA-EQ,VIJAYA.NS,Vijaya Diagnostic Centre Ltd.,Healthcare
+NSE:VMM-EQ,VMM.NS,Vishal Mega Mart Ltd.,Consumer Services
+NSE:IDEA-EQ,IDEA.NS,Vodafone Idea Ltd.,Telecommunication
+NSE:VOLTAS-EQ,VOLTAS.NS,Voltas Ltd.,Consumer Durables
+NSE:WAAREEENER-EQ,WAAREEENER.NS,Waaree Energies Ltd.,Capital Goods
+NSE:WELCORP-EQ,WELCORP.NS,Welspun Corp Ltd.,Capital Goods
+NSE:WELSPUNLIV-EQ,WELSPUNLIV.NS,Welspun Living Ltd.,Textiles
+NSE:WHIRLPOOL-EQ,WHIRLPOOL.NS,Whirlpool of India Ltd.,Consumer Durables
+NSE:WIPRO-EQ,WIPRO.NS,Wipro Ltd.,Information Technology
+NSE:WOCKPHARMA-EQ,WOCKPHARMA.NS,Wockhardt Ltd.,Healthcare
+NSE:YESBANK-EQ,YESBANK.NS,Yes Bank Ltd.,Financial Services
+NSE:ZFCVINDIA-EQ,ZFCVINDIA.NS,ZF Commercial Vehicle Control Systems India Ltd.,Automobile and Auto Components
+NSE:ZEEL-EQ,ZEEL.NS,Zee Entertainment Enterprises Ltd.,Media Entertainment & Publication
+NSE:ZENTEC-EQ,ZENTEC.NS,Zen Technologies Ltd.,Capital Goods
+NSE:ZENSARTECH-EQ,ZENSARTECH.NS,Zensar Technolgies Ltd.,Information Technology
+NSE:ZYDUSLIFE-EQ,ZYDUSLIFE.NS,Zydus Lifesciences Ltd.,Healthcare
+NSE:ZYDUSWELL-EQ,ZYDUSWELL.NS,Zydus Wellness Ltd.,Fast Moving Consumer Goods
+NSE:ECLERX-EQ,ECLERX.NS,eClerx Services Ltd.,Services

@@ -1,0 +1,36 @@
+# Wallet and credentials
+*.zip
+*.p12
+*.sso
+*.pem
+*.jks
+Wallet_*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary
+tmp/
+temp/
+*.tmp
