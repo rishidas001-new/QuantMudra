@@ -3,6 +3,8 @@
 Daily OHLCV Data Update Script
 Fetches yesterday's closing data for all 500 stocks
 Runs daily at 6:30 PM IST (1:00 PM UTC)
+
+Logs execution to JOB_EXECUTION_LOG table for monitoring
 """
 import yfinance as yf
 import pandas as pd
@@ -11,6 +13,11 @@ from datetime import datetime, date, timedelta
 import time
 import sys
 import logging
+import traceback
+
+# Add parent directory to path for imports
+sys.path.insert(0, '/workspace/quantmudra')
+from scripts.job_logger import JobLogger
 
 # Configure logging
 logging.basicConfig(
@@ -145,6 +152,10 @@ def get_previous_trading_day(from_date, lookback_days=10):
 
 def main():
     start_time = datetime.now()
+    job_logger = JobLogger(DB_CONFIG)
+    job_logger.connect()
+    log_id = job_logger.start_job('update_daily')
+    
     logger.info("="*70)
     logger.info("DAILY DATA UPDATE - STARTED")
     logger.info("="*70)
@@ -164,6 +175,8 @@ def main():
         conn = connect_db()
     except Exception as e:
         logger.error(f"Database connection failed: {e}")
+        job_logger.log_failure(e)
+        job_logger.close()
         sys.exit(1)
     
     last_update = get_last_update_date(conn)
@@ -172,6 +185,8 @@ def main():
     if last_update and last_update.date() >= target_date:
         logger.info(f"Data already updated for {target_date}. Skipping.")
         conn.close()
+        job_logger.log_success(0, 0)
+        job_logger.close()
         sys.exit(0)
     
     symbols = get_all_symbols(conn)
@@ -180,6 +195,8 @@ def main():
     success_count = 0
     failed_count = 0
     total_records = 0
+    new_records = 0
+    updated_records = 0
     
     start_date = (last_update.date() + timedelta(days=1)).strftime('%Y-%m-%d')
     end_date = (target_date + timedelta(days=1)).strftime('%Y-%m-%d')
@@ -195,6 +212,7 @@ def main():
             logger.info(f"OK +{result['records']}")
             success_count += 1
             total_records += result['records']
+            new_records += result['records']  # Simplified - actual tracking needs DB check
         elif result['status'] == 'NO_DATA':
             logger.info("SKIP")
         else:
@@ -217,6 +235,17 @@ def main():
     logger.info(f"Total records: {total_records}")
     
     conn.close()
+    
+    # Log to JOB_EXECUTION_LOG table
+    if failed_count == 0:
+        job_logger.log_success(records_added=new_records, records_updated=total_records - new_records)
+    elif success_count > 0:
+        job_logger.log_partial(records_added=new_records, records_updated=total_records - new_records, 
+                               records_failed=failed_count)
+    else:
+        job_logger.log_failure(Exception(f"All {failed_count} stocks failed"))
+    
+    job_logger.close()
     return 0 if failed_count == 0 else 1
 
 if __name__ == "__main__":

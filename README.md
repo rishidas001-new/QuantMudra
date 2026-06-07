@@ -63,6 +63,49 @@ info = stock.info
 | `INDEX_CONSTITUENTS` | 64 | Nifty 50/100/500 composition |
 | `CORPORATE_ACTIONS` | 938 | Splits, dividends, bonuses |
 | `STOCK_PRICE_METADATA` | 500 | Data quality statistics |
+| `JOB_EXECUTION_LOG` | - | **Job run tracking with statistics** |
+
+### JOB_EXECUTION_LOG Table
+
+Tracks all scheduled job executions with detailed statistics:
+
+| Column | Type | Description |
+|--------|------|-------------|
+| LOG_ID | NUMBER | Auto-generated primary key |
+| JOB_NAME | VARCHAR2(50) | Script name (e.g., update_daily) |
+| JOB_TYPE | VARCHAR2(30) | Category (DAILY_UPDATE, QUALITY_CHECK, etc.) |
+| START_TIME | TIMESTAMP | Job start time |
+| END_TIME | TIMESTAMP | Job end time |
+| STATUS | VARCHAR2(20) | RUNNING, SUCCESS, FAILED, PARTIAL |
+| RECORDS_ADDED | NUMBER | New records inserted |
+| RECORDS_UPDATED | NUMBER | Existing records modified |
+| RECORDS_FAILED | NUMBER | Records that failed |
+| ERROR_MESSAGE | VARCHAR2(2000) | Error details if failed |
+| DURATION_SECONDS | NUMBER | Total execution time |
+
+### Views for Quick Monitoring
+
+```sql
+-- Last run status for each job
+SELECT * FROM V_JOB_LAST_RUN;
+
+-- Daily summary statistics
+SELECT * FROM V_DAILY_JOB_SUMMARY;
+```
+
+### Example Query - Check Job Status
+```sql
+SELECT JOB_NAME, START_TIME, STATUS, RECORDS_ADDED, RECORDS_UPDATED, DURATION_SECONDS
+FROM V_JOB_LAST_RUN
+ORDER BY START_TIME DESC;
+```
+
+### Example Query - Today's Runs
+```sql
+SELECT * FROM JOB_EXECUTION_LOG 
+WHERE TRUNC(START_TIME) = TRUNC(SYSDATE)
+ORDER BY START_TIME DESC;
+```
 
 ---
 
@@ -73,16 +116,19 @@ QuantMudra/
 ├── docs/                          # Architecture documents
 ├── quantmudra/
 │   ├── data_pipeline/
-│   │   ├── update_daily.py              # Daily OHLCV data fetcher
+│   │   ├── update_daily.py              # Daily OHLCV data fetcher (+ logging)
 │   │   ├── check_quality.py             # Data quality validator
 │   │   ├── process_corp_actions.py     # Handle splits/dividends
 │   │   ├── update_index_composition.py  # Update index constituents
 │   │   └── generate_quality_report.py  # Weekly quality report
+│   ├── scripts/
+│   │   ├── job_logger.py               # Job execution logging utility
+│   │   └── ...
 │   ├── setup/
 │   │   └── setup_cron.sh                # Cron scheduler
-│   └── scripts/                         # Utility scripts
-├── sql/                                # Database schemas
-└── config/                             # Configuration
+│   └── sql/
+│       └── create_job_execution_log.sql # Log table schema
+└── README.md                            # This file
 ```
 
 ---
