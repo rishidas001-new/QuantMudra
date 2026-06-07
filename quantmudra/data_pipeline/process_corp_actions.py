@@ -60,7 +60,7 @@ def get_last_corp_action_date(conn, symbol):
 def fetch_stock_splits(symbol, start_date):
     """Fetch stock split information from Yahoo"""
     try:
-        ticker = yf.Ticker(symbol)
+        ticker = yf.Ticker(f"{symbol}.NS")  # Add .NS suffix for NSE
         splits = ticker.splits
         if splits is None or splits.empty:
             return []
@@ -76,7 +76,7 @@ def fetch_stock_splits(symbol, start_date):
 def fetch_dividends(symbol, start_date):
     """Fetch dividend information from Yahoo"""
     try:
-        ticker = yf.Ticker(symbol)
+        ticker = yf.Ticker(f"{symbol}.NS")  # Add .NS suffix for NSE
         divs = ticker.dividends
         if divs is None or divs.empty:
             return []
