@@ -24,7 +24,7 @@ DB_CONFIG = {
     'user': 'admin',
     'password': 'QuantMudra@2026',
     'dsn': 'quantmudra_high',
-    'wallet_location': '/home/openhands/.oci/quantmudra_wallet',
+    'wallet_location': '/tmp/quantmudra_wallet',
     'wallet_password': 'QuantMudra@2026'
 }
 

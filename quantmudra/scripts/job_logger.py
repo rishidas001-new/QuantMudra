@@ -36,6 +36,7 @@ class JobLogger:
             user=self.db_config['user'],
             password=self.db_config['password'],
             dsn=self.db_config['dsn'],
+            config_dir=self.db_config.get('wallet_location'),
             wallet_location=self.db_config.get('wallet_location'),
             wallet_password=self.db_config.get('wallet_password')
         )
@@ -120,6 +121,7 @@ def get_last_run_status(db_config: dict, job_name: str = None) -> list:
         user=db_config['user'],
         password=db_config['password'],
         dsn=db_config['dsn'],
+        config_dir=db_config.get('wallet_location'),
         wallet_location=db_config.get('wallet_location'),
         wallet_password=db_config.get('wallet_password')
     )
